@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "jsx": "react",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "ESNext"
+        ],
+        "moduleResolution": "node16",
+        "resolveJsonModule": true,
+        "strict": true,
+        "target": "ESNext",
+        "module": "NodeNext"
+    }
+}
